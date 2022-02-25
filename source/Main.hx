@@ -32,9 +32,6 @@ class Main extends Sprite
         static public function getDataPath():String
         {
                 return path;
-                #else
-                return "";
-	        #end
         }
   
 
